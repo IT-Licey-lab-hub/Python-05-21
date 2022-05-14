@@ -1,0 +1,8 @@
+1) клонирование репозитория --> git clone ссылка репозитория
+    пример: git clone https://github.com/IT-Licey-lab-hub/Python-05-21.git
+2) Создать свою папку в проекте для решения своих задач
+3) Стить все на github
+    порядок действий слияния для github
+    1) git aad .
+    2) git commit -m "ваш комит"
+    3) git push
