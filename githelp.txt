@@ -6,3 +6,5 @@
     1) git aad .
     2) git commit -m "ваш комит"
     3) git push
+
+4) git pull - клонирование изьенений в проекта
