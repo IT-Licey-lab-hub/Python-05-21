@@ -1,5 +1,0 @@
-print(2 + 2)
-
-1) Клонирование репозитория --> git clone ссылка репозитория 
-      пример: git clone https://github.com/IT-Licey-lab-hub/Python-05-21.git 
-2)Создать свое папку  в проект 
