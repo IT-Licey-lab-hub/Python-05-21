@@ -1,16 +1,17 @@
-# Даны две переменные целого типа: A и B. Если их значения не равны, то присвоить каждой переменной сумму этих значений, а если равны, то присвоить переменным нулевые значения. Вывести новые значения переменных A и B.
-a = int(input())
-b = int(input())
-# a = (2)
-# b = (3)
+import random
 
-if a < b: 
-    print(a + b)
+a = random.randint(1, 100)
+b = random.randint(1, 200)
+print(a,b)
 
-elif a > b:
-    print(a + b)
+c =  a + b
+print(c)
 
-else:
-    print(a + 0, b + 0)
+d = a - b 
+print(c)
 
+e = a * b
+print(e)
 
+f = a / b
+print(f)
